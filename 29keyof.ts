@@ -21,3 +21,21 @@ PersonDataX="age";
 PersonDataX="isEmp";
 
 let UserX:keyof typeof PersonData="name"
+
+
+
+
+
+
+
+// matlb hum jo ek variable mai | use karte h keyof hame vahi use karne deta h type mai
+// ChatGPT said:
+
+// Bilkul sahi socha tumne 👌
+
+// TypeScript me agar tum manually union banate ho, to tumhe har key khud likhni padti hai:
+
+// type Keys = "name" | "age" | "isStudent";
+
+
+// Par agar tum keyof use karte ho, to ye automatically object type ke keys ko union bana deta hai:
