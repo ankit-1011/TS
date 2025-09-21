@@ -1,4 +1,4 @@
-// use to define static property and methods vo instance ka part nhi hoti(instance k sath nhi use kar sakte) sirf class ka hota h
+// use to define static property and methods vo instance ka part nhi hoti(instance k sath nhi use kar sakte) sirf class ka hota h mtlb bin object bnaye access karna 
 
 // Memory Efficiency sirf class k sath use hota h
 

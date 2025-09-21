@@ -1,4 +1,4 @@
-//getter & setter ke help se class ke properties ko modify kar sakte h jab hum get ya set karte h
+//getter & setter ke help se class k andar ke properties ko modify kar sakte h jab hum get ya set karte h
 
 class EmpInfo{
     _name:string="Anil";

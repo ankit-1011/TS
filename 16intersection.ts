@@ -8,7 +8,7 @@
 
 interface personTA {name:string}
 interface personTB{age:number}
-type personTC = personTA & personTB
+type personTC = personTA & personTB //a & b k structure aa jayege
 
 
 var PersonDataA:personTA={name:'Anil sidhu'}

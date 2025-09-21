@@ -13,7 +13,7 @@ interface TeacherType extends Info {
 var studentObj:Info ={
     name:'anil',
     age:30,
-    college:'IET alwar'
+    college:'IET alwar',
 }
 var teacherObj:TeacherType={
     name:'Sam',

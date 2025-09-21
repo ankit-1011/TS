@@ -1,5 +1,7 @@
 "use strict";
 //type bta rahe h
+
+
  // var userData:{
 //     name:string,
 //     age:number,

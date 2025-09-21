@@ -1,4 +1,4 @@
-//constant defined kate h matlb eske alav or koi value na aaye ge
+//constant defined karte h matlb eske alava or koi value na aaye ge
 
 enum WhoType{
     student="student",
